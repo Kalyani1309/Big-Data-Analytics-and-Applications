@@ -6,6 +6,7 @@
 
 ## Wiki Links-
 ### ICP-1 : https://github.com/Kalyani1309/Big-Data-Analytics-and-Applications/wiki/ICP1
+### ICP-2 : https://github.com/Kalyani1309/Big-Data-Analytics-and-Applications/wiki/ICP2
 
  
  
